@@ -1,0 +1,7 @@
+Download data from Kaggle
+Create folder for the project
+Install virtualenv package
+    py -m pip install virtualenv
+py -m venv .env
+Activate our environment
+py -m pip list
